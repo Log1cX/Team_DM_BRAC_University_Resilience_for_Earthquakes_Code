@@ -1,0 +1,418 @@
+###Stable environment Phase01
+
+No flame detected. stay cool
+1
+No gas detected. stay cool
+IR: 1Accelerometer: X = 2660 | Y = 924 | Z = 16800
+Gyroscope: X = -3040 | Y = 196 | Z = 13
+ 
+1
+No flame detected. stay cool
+1
+No gas detected. stay cool
+IR: 1Accelerometer: X = 2712 | Y = 800 | Z = 16572
+Gyroscope: X = -3072 | Y = 251 | Z = -43
+ 
+1
+No flame detected. stay cool
+1
+No gas detected. stay cool
+IR: 1Accelerometer: X = 2620 | Y = 816 | Z = 16700
+Gyroscope: X = -3040 | Y = 241 | Z = -78
+ 
+1
+No flame detected. stay cool
+1
+No gas detected. stay cool
+IR: 1Accelerometer: X = 2532 | Y = 880 | Z = 16904
+Gyroscope: X = -3024 | Y = 255 | Z = -88
+ 
+1
+No flame detected. stay cool
+1
+No gas detected. stay cool
+IR: 1Accelerometer: X = 2620 | Y = 800 | Z = 16752
+Gyroscope: X = -3040 | Y = 222 | Z = -104
+ 
+1
+No flame detected. stay cool
+1
+No gas detected. stay cool
+IR: 1Accelerometer: X = 2568 | Y = 724 | Z = 16380
+Gyroscope: X = -3024 | Y = 364 | Z = -248
+ 
+1
+No flame detected. stay cool
+1
+No gas detected. stay cool
+IR: 1Accelerometer: X = 2560 | Y = 756 | Z = 16608
+Gyroscope: X = -3040 | Y = 255 | Z = -154
+ 
+1
+No flame detected. stay cool
+1
+No gas detected. stay cool
+IR: 1Accelerometer: X = 2676 | Y = 776 | Z = 16652
+Gyroscope: X = -3056 | Y = 77 | Z = 30
+ 
+1
+No flame detected. stay cool
+1
+No gas detected. stay cool
+IR: 1Accelerometer: X = 2612 | Y = 656 | Z = 16224
+Gyroscope: X = -3056 | Y = 368 | Z = -297
+ 
+1
+No flame detected. stay cool
+1
+No gas detected. stay cool
+IR: 1Accelerometer: X = 2580 | Y = 764 | Z = 16456
+Gyroscope: X = -3008 | Y = 264 | Z = -131
+
+
+#############################################################################
+
+
+###Stable environment Phase02
+
+IR: 1Accelerometer: X = 2520 | Y = 836 | Z = 16796
+Gyroscope: X = -2816 | Y = 50 | Z = 136
+ 
+1
+No flame detected. stay cool
+1
+No gas detected. stay cool
+IR: 1Accelerometer: X = 2560 | Y = 740 | Z = 16744
+Gyroscope: X = -2848 | Y = 167 | Z = 14
+ 
+1
+No flame detected. stay cool
+1
+No gas detected. stay cool
+IR: 1Accelerometer: X = 2568 | Y = 768 | Z = 16820
+Gyroscope: X = -2848 | Y = 89 | Z = 30
+ 
+1
+No flame detected. stay cool
+1
+No gas detected. stay cool
+IR: 1Accelerometer: X = 2648 | Y = 716 | Z = 16604
+Gyroscope: X = -2800 | Y = 285 | Z = -129
+ 
+1
+No flame detected. stay cool
+1
+No gas detected. stay cool
+IR: 1Accelerometer: X = 2616 | Y = 720 | Z = 16816
+Gyroscope: X = -2864 | Y = 129 | Z = 18
+ 
+1
+No flame detected. stay cool
+1
+No gas detected. stay cool
+IR: 1Accelerometer: X = 2672 | Y = 660 | Z = 16644
+Gyroscope: X = -2832 | Y = 293 | Z = -166
+ 
+1
+No flame detected. stay cool
+1
+No gas detected. stay cool
+IR: 1Accelerometer: X = 2592 | Y = 820 | Z = 16892
+Gyroscope: X = -2832 | Y = 112 | Z = -20
+ 
+1
+No flame detected. stay cool
+1
+No gas detected. stay cool
+IR: 1Accelerometer: X = 2464 | Y = 704 | Z = 16720
+Gyroscope: X = -2848 | Y = 98 | Z = -53
+ 
+1
+No flame detected. stay cool
+1
+No gas detected. stay cool
+IR: 1Accelerometer: X = 2692 | Y = 744 | Z = 17008
+Gyroscope: X = -2832 | Y = 74 | Z = 76
+ 
+1
+No flame detected. stay cool
+1
+No gas detected. stay cool
+IR: 1Accelerometer: X = 2572 | Y = 744 | Z = 16900
+Gyroscope: X = -2848 | Y = 290 | Z = -76
+ 
+1
+No flame detected. stay cool
+1
+No gas detected. stay cool
+IR: 1Accelerometer: X = 2544 | Y = 784 | Z = 16848
+Gyroscope: X = -2832 | Y = 72 | Z = 42
+ 
+1
+No flame detected. stay cool
+1
+No gas detected. stay cool
+IR: 1Accelerometer: X = 2428 | Y = 612 | Z = 16336
+Gyroscope: X = -2864 | Y = 246 | Z = -218
+
+
+
+#############################################################################
+#############################################################################
+
+
+
+###Shaking Environment Phase01###
+
+No gas detected. stay cool
+IR: 1Accelerometer: X = 2148 | Y = 1412 | Z = 16988
+Gyroscope: X = -2720 | Y = 791 | Z = -4
+ 
+1
+No flame detected. stay cool
+1
+No gas detected. stay cool
+IR: 1Accelerometer: X = 3032 | Y = -312 | Z = 16532
+Gyroscope: X = -2720 | Y = 1202 | Z = 936
+
+
+#############################################################
+
+
+###Shaking Environment Phase02###
+
+No gas detected. stay cool
+IR: 1Accelerometer: X = 2540 | Y = 668 | Z = 16984
+Gyroscope: X = -2672 | Y = 292 | Z = -58
+ 
+1
+No flame detected. stay cool
+1
+No gas detected. stay cool
+IR: 1Accelerometer: X = 2684 | Y = 604 | Z = 17148
+Gyroscope: X = -2704 | Y = 395 | Z = -158
+ 
+1
+No flame detected. stay cool
+1
+No gas detected. stay cool
+IR: 1Accelerometer: X = 2112 | Y = 1648 | Z = 17172
+Gyroscope: X = -2656 | Y = -1106 | Z = 1174
+
+
+###########################################################
+
+
+
+###Shaking Environment Phase03###
+
+IR: 1Accelerometer: X = 2700 | Y = 528 | Z = 16808
+Gyroscope: X = -2608 | Y = 255 | Z = -68
+ 
+1
+No flame detected. stay cool
+1
+No gas detected. stay cool
+IR: 1Accelerometer: X = 2292 | Y = 1024 | Z = 17016
+Gyroscope: X = -2592 | Y = 538 | Z = 217
+ 
+1
+No flame detected. stay cool
+1
+No gas detected. stay cool
+IR: 1Accelerometer: X = 2520 | Y = 692 | Z = 17076
+Gyroscope: X = -2608 | Y = -4442 | Z = -582
+
+
+############################################################
+############################################################
+
+
+###Vibrating Environment phase01
+
+IR: 1Accelerometer: X = 2460 | Y = 444 | Z = 16368
+Gyroscope: X = -2496 | Y = 332 | Z = -407
+ 
+1
+No flame detected. stay cool
+1
+No gas detected. stay cool
+IR: 1Accelerometer: X = 2648 | Y = 468 | Z = 16296
+Gyroscope: X = -2480 | Y = 397 | Z = 87
+ 
+1
+No flame detected. stay cool
+1
+No gas detected. stay cool
+IR: 1Accelerometer: X = 2736 | Y = 528 | Z = 16720
+Gyroscope: X = -2480 | Y = 349 | Z = -260
+ 
+1
+No flame detected. stay cool
+1
+No gas detected. stay cool
+IR: 1Accelerometer: X = 2532 | Y = 676 | Z = 16964
+Gyroscope: X = -2496 | Y = 125 | Z = 76
+ 
+1
+No flame detected. stay cool
+1
+No gas detected. stay cool
+IR: 1Accelerometer: X = 2424 | Y = 532 | Z = 16640
+Gyroscope: X = -2496 | Y = 287 | Z = -179
+ 
+1
+No flame detected. stay cool
+1
+No gas detected. stay cool
+IR: 1Accelerometer: X = 2560 | Y = 568 | Z = 16516
+Gyroscope: X = -2480 | Y = 292 | Z = -40
+ 
+1
+No flame detected. stay cool
+1
+No gas detected. stay cool
+IR: 1Accelerometer: X = 2448 | Y = 484 | Z = 16364
+Gyroscope: X = -2496 | Y = 348 | Z = -174
+ 
+1
+No flame detected. stay cool
+1
+No gas detected. stay cool
+IR: 1Accelerometer: X = 2488 | Y = 568 | Z = 16828
+Gyroscope: X = -2496 | Y = 310 | Z = -42
+ 
+1
+No flame detected. stay cool
+1
+No gas detected. stay cool
+IR: 1Accelerometer: X = 2576 | Y = 752 | Z = 17032
+Gyroscope: X = -2480 | Y = 259 | Z = -33
+ 
+1
+No flame detected. stay cool
+1
+No gas detected. stay cool
+IR: 1Accelerometer: X = 2544 | Y = 456 | Z = 16580
+Gyroscope: X = -2464 | Y = 281 | Z = -102
+ 
+1
+No flame detected. stay cool
+1
+No gas detected. stay cool
+IR: 1Accelerometer: X = 2372 | Y = 652 | Z = 16796
+Gyroscope: X = -2480 | Y = 18 | Z = -194
+ 
+1
+No flame detected. stay cool
+1
+No gas detected. stay cool
+IR: 1Accelerometer: X = 2692 | Y = 384 | Z = 16168
+Gyroscope: X = -2480 | Y = 398 | Z = -68
+ 
+1
+No flame detected. stay cool
+1
+No gas detected. stay cool
+IR: 1Accelerometer: X = 2728 | Y = 476 | Z = 16372
+Gyroscope: X = -2464 | Y = 297 | Z = 92
+
+
+ 
+################################################################
+
+
+###Vibrating Environment phase02
+
+No gas detected. stay cool
+IR: 1Accelerometer: X = 1224 | Y = 752 | Z = 17572
+Gyroscope: X = -2288 | Y = 154 | Z = -375
+ 
+1
+No flame detected. stay cool
+1
+No gas detected. stay cool
+IR: 1Accelerometer: X = 2256 | Y = 344 | Z = 16684
+Gyroscope: X = -2272 | Y = 235 | Z = -146
+ 
+1
+No flame detected. stay cool
+1
+No gas detected. stay cool
+IR: 1Accelerometer: X = 2308 | Y = 348 | Z = 16564
+Gyroscope: X = -2272 | Y = 235 | Z = -131
+ 
+1
+No flame detected. stay cool
+1
+No gas detected. stay cool
+IR: 1Accelerometer: X = 3356 | Y = 80 | Z = 16160
+Gyroscope: X = -2272 | Y = 404 | Z = 263
+ 
+1
+No flame detected. stay cool
+1
+No gas detected. stay cool
+IR: 1Accelerometer: X = 2560 | Y = 184 | Z = 16028
+Gyroscope: X = -2304 | Y = 198 | Z = -480
+ 
+1
+No flame detected. stay cool
+1
+No gas detected. stay cool
+IR: 1Accelerometer: X = 3460 | Y = 136 | Z = 15912
+Gyroscope: X = -2288 | Y = 385 | Z = 662
+ 
+1
+No flame detected. stay cool
+1
+No gas detected. stay cool
+IR: 1Accelerometer: X = 2256 | Y = 412 | Z = 16704
+Gyroscope: X = -2256 | Y = 223 | Z = -171
+ 
+1
+No flame detected. stay cool
+1
+No gas detected. stay cool
+IR: 1Accelerometer: X = 1904 | Y = 440 | Z = 17404
+Gyroscope: X = -2304 | Y = 303 | Z = 528
+ 
+1
+No flame detected. stay cool
+1
+No gas detected. stay cool
+IR: 1Accelerometer: X = 2276 | Y = 312 | Z = 16588
+Gyroscope: X = -2288 | Y = 243 | Z = -101
+ 
+1
+No flame detected. stay cool
+1
+No gas detected. stay cool
+IR: 1Accelerometer: X = 1080 | Y = 544 | Z = 17352
+Gyroscope: X = -2304 | Y = 76 | Z = -683
+ 
+1
+No flame detected. stay cool
+1
+No gas detected. stay cool
+IR: 1Accelerometer: X = 2324 | Y = 424 | Z = 16656
+Gyroscope: X = -2272 | Y = 259 | Z = -140
+ 
+1
+No flame detected. stay cool
+1
+No gas detected. stay cool
+IR: 1Accelerometer: X = 2444 | Y = 364 | Z = 16408
+Gyroscope: X = -2288 | Y = 238 | Z = -29
+ 
+1
+No flame detected. stay cool
+1
+No gas detected. stay cool
+IR: 1Accelerometer: X = 1860 | Y = 292 | Z = 16424
+Gyroscope: X = -2288 | Y = 138 | Z = -864
+
+
+
+
+
