@@ -49,7 +49,7 @@ def AutoMateEmail(UnKnown=False):
     if UnKnown==True:
         Server=smtplib.SMTP("smtp.gmail.com",587)
         Server.starttls()
-        Server.login('projectdurjo@gmail.com','ProjectDurjo@101')
+        Server.login('projectdurjo@gmail.com','Password')
         Server.sendmail('projectdurjo@gamil.com',
                         'mssiam12@gmail.com',
                         'messageUnknown Person Detected in Room')  #from, to, message
